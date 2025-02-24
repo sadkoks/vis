@@ -1,2 +1,2 @@
 # vis
-о себе
+https://sadkoks.github.io/vis/
